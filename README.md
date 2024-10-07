@@ -1,15 +1,15 @@
+# 👋 Olá, sou a Renata, tenho 26 anos e moro em BH.
 
-
-# 👋 Olá, eu sou Renata Gabrielle
+Atualmente sou Telefonista na empresa Hospital Madre Teresa e também estudante do curso de Sistemas da Informação. 👨‍🏫
 
 ## 👀 Tenho interesse em...
-- Desenvolvimento de software, ciência de dados e design de sites
+- Desenvolvimento de software, ciência de dados e design de sites.
 
 ## 🌱 Atualmente estou aprendendo...
-- HTML, CSS e JavaScript
+- HTML, CSS e JavaScript.
 
 ## 💞️ Estou buscando colaborar em...
-- Estou constantemente buscando aprendizado e crescimento, enfrentando desafios com determinação e procurando maneiras de aplicar meus conhecimentos na prática.
+- [Especifique os tipos de projetos nos quais você gostaria de colaborar, por exemplo, projetos de código aberto, iniciativas comunitárias, etc.]
 
 ## 📫 Como me encontrar...
 - [LinkedIn](https://www.linkedin.com/in/renata-martins-01a101164)
