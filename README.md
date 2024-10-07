@@ -1,6 +1,4 @@
-Aqui está o modelo do README atualizado com o seu link do LinkedIn:
 
----
 
 # 👋 Olá, eu sou Renata Gabrielle
 
