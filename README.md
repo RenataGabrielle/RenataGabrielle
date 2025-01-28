@@ -8,9 +8,6 @@ Atualmente sou Telefonista na empresa Hospital Madre Teresa e também estudante 
 ## 🌱 Atualmente estou aprendendo...
 - HTML, CSS e JavaScript.
 
-## 💞️ Estou buscando colaborar em...
-- [Especifique os tipos de projetos nos quais você gostaria de colaborar, por exemplo, projetos de código aberto, iniciativas comunitárias, etc.]
-
 ## 📫 Como me encontrar...
 - [LinkedIn](https://www.linkedin.com/in/renata-martins-01a101164)
 
