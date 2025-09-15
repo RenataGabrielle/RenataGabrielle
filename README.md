@@ -1,6 +1,4 @@
-# 👋 Olá, sou a Renata!
+# 👋 Olá, me chamo Renata!
 
-## 📫 Como me encontrar...
-- [LinkedIn](https://www.linkedin.com/in/renata-martins-01a101164)
 
 
